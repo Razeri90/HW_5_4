@@ -1,0 +1,25 @@
+Cycle.c(12): user: jojo
+Action.c(27): Number of tickets first class= 3
+Action.c(28): Total number of tickets= 10
+Cycle.c(13): user: jojo1
+Action.c(27): Number of tickets first class= 4
+Action.c(28): Total number of tickets= 10
+Cycle.c(14): user: jojo2
+Action.c(27): Number of tickets first class= 3
+Action.c(28): Total number of tickets= 10
+Cycle.c(27): Quantity jojo Firstclass Ticket =3
+Cycle.c(28): Quantity jojo1 Firstclass Ticket =4
+Cycle.c(29): Quantity jojo2 Firstclass Ticket =3
+Cycle.c(43): DELETE tickets for=jojo1
+Cycle.c(55): Quantity of Firstclass tickets =4
+DelTicket.c(39): USE DELETE BLOCK FOR = jojo1
+DelTicket.c(44): Randomize= 2
+DelTicket.c(45): Total number of tickets= 10
+DelTicket.c(51): Convert= 2
+DelTicket.c(53): Convert2= 139312512
+DelTicket.c(55): Convert3= 2
+DelTicket.c(139): Number of tickets first class= 4
+DelTicket.c(140): Total number of tickets after DEL= 10
+DelTicket.c(142):  
+DelTicket.c(143):  
+DelTicket.c(144):  
